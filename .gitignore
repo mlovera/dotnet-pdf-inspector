@@ -1,0 +1,4 @@
+Files/*.pdf
+bin/
+obj/
+.vs/

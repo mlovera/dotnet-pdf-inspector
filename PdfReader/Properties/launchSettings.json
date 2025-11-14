@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "PdfReader": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
