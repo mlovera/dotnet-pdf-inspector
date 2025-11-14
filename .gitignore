@@ -1,4 +1,4 @@
-Files/*.pdf
+PdfReader/Files/*.pdf
 bin/
 obj/
 .vs/
